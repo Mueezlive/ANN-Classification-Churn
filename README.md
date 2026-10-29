@@ -1,6 +1,6 @@
 ## Bank Customer Churn Prediction Using Artificial Neural Networks (ANN)
 
-#Project Overview
+# Project Overview
 
 This project is an end-to-end deep learning application that predicts whether a bank customer is likely to leave the bank (churn) based on the features given.
 
