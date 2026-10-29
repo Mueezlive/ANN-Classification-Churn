@@ -1,6 +1,6 @@
 ## Bank Customer Churn Prediction Using Artificial Neural Networks (ANN)
 
-Project Overview
+#Project Overview
 
 This project is an end-to-end deep learning application that predicts whether a bank customer is likely to leave the bank (churn) based on the features given.
 
@@ -8,13 +8,11 @@ Customer churn is a significant challenge in the banking industry, as retaining 
 
 The trained model is integrated into an interactive web application built with Streamlit, allowing users to enter customer information and obtain churn predictions.
 
-Dataset Description
+#Dataset Description
 
 The dataset contains customer information and a target variable indicating whether each customer exited the bank.
 
-Feature
-
-Description
+Feature Description
 
 CustomerId : Unique identifier assigned to each customer.
 
@@ -44,7 +42,7 @@ Exited : Target variable indicating whether the customer left the bank.
 
 Target variable: Exited
 
-Problem Statement
+#Problem Statement
 
 The project uses a Bank Customer Churn Modelling dataset containing historical customer records, including demographic characteristics, account information, and customer activity.
 
@@ -56,7 +54,7 @@ The objective is to develop a binary classification model that predicts whether 
 
 This solution demonstrates how deep learning can be applied to customer analytics to support customer retention strategies and data-driven decision-making.
 
-The Objectives
+#The Objectives
 
 Perform exploratory data analysis and understand customer behavior.
 
