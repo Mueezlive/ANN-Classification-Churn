@@ -2,7 +2,7 @@
 
 # Project Overview
 
-This project is an end-to-end deep learning application that predicts whether a bank customer is likely to leave the bank (churn) based on the features given.
+This project is an end-to-end deep learning project that predicts whether a bank customer is likely to leave the bank (churn) based on the features given.
 
 Customer churn is a significant challenge in the banking industry, as retaining existing customers is often more cost-effective than acquiring new ones. By leveraging historical customer data and an Artificial Neural Network (ANN), this project aims to identify customers who are more likely to discontinue their relationship with the bank.
 
